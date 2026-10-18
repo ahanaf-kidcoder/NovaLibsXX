@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/mrtx.hpp"
+#include <nova/matrix.hpp>
 int main() {
     // Create matrices
     mrtx A;
